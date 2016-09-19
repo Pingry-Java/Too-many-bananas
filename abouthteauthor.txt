@@ -1,3 +1,9 @@
 Tom drzik is the author of this piece. He is known for his work in the study of Sringeri Drinvas and his journey from simple farmer to international crime lord.
 
+<<<<<<< HEAD
 This line should only appear in master
+=======
+This line should only appear in the secondedition
+
+This line should also only appear in secondedition
+>>>>>>> secondedition
